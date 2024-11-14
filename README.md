@@ -3,8 +3,8 @@ Predicting Cardiovascular Disease Risk
 HealthPrediction: Cardiovascular Disease Risk Analysis
 <!-- Replace with a banner image link if available -->
 
-Table of Contents
-Project Overview
+#Table of Contents
+[Overview](#overview)
 Data Preprocessing
 Exploratory Data Analysis
 Feature Engineering
@@ -12,7 +12,8 @@ Model Building
 Model Evaluation
 Conclusion and Key Insights
 Installation and Requirements
-Project Overview
+
+## Project Overview
 This project explores various health and lifestyle factors to predict cardiovascular disease (CVD) risk using machine learning models, specifically logistic regression and random forest. The dataset includes demographic and lifestyle variables, which are analyzed to understand their influence on CVD risk.
 
 Data Preprocessing

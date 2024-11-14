@@ -26,7 +26,8 @@ During EDA, we examine variable distributions and the relationships between pred
 ## Age vs. Risk_CVD Histogram
 This histogram shows the distribution of age, separated by Risk_CVD status, highlighting how age groups differ in their risk profiles.
 
-![Age vs. Risk of CVD Histogram](age_risk_histogram.png)
+![Age vs. Risk of CVD Histogram](images/age_risk_histogram.png)
+
 
 ## BMI vs. Risk_CVD
 A scatter plot illustrating BMI values against CVD risk levels, helping visualize potential correlations between BMI and cardiovascular disease risk.

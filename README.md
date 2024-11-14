@@ -4,7 +4,7 @@ HealthPrediction: Cardiovascular Disease Risk Analysis
 <!-- Replace with a banner image link if available -->
 
 ## Table of Contents
-[ Project Overview](#overview)
+- [ Project Overview](#overview)
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Feature Engineering](#feature-engineering)
